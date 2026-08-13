@@ -11,6 +11,6 @@ A simple index of every project I have built. Plain HTML/CSS/JS, no framework, n
 
 ## Status
 
-1. Build the index site (pending)
-2. Create private GitHub repo + push (pending)
-3. Deploy on Vercel + verify by content (pending)
+1. Build the index site (done)
+2. Create private GitHub repo + push (done)
+3. Deploy on Vercel + verify by content (done) — live at https://projects-index.vercel.app
