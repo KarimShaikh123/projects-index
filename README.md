@@ -8,6 +8,7 @@ A simple index of every project I have built. Plain HTML/CSS/JS, no framework, n
 - **Markdown Blog** — markdown-blog-theta-rouge.vercel.app
 - **QR Studio** — qr-generator-nine-rho.vercel.app
 - **Lahore Weather** — lahore-weather-one.vercel.app
+- **URL Shortener** — url-shortener-gamma-one.vercel.app
 
 ## Status
 
