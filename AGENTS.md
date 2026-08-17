@@ -8,14 +8,15 @@
 - Vercel: `outputDirectory: "."` in `vercel.json` + a no-op `build` script in `package.json` — do not remove either, `vercel dev` fails without them.
 - Tests: `npm test` = `node --test`. No runtime deps.
 
-## Facts (all verified 2026-08-13 by fetching the live pages, never from memory)
+## Facts (all verified 2026-08-13 by fetching the live pages, never from memory; url-shortener verified 2026-08-17)
 
-Live URLs + GitHub repos for the four projects:
+Live URLs + GitHub repos for the five projects:
 
 - Portfolio → https://portfolio-site-three-kappa-31.vercel.app · KarimShaikh123/portfolio-site
 - Markdown Blog → https://markdown-blog-theta-rouge.vercel.app · KarimShaikh123/markdown-blog
 - QR Studio → https://qr-generator-nine-rho.vercel.app · KarimShaikh123/qr-generator
 - Lahore Weather → https://lahore-weather-one.vercel.app · KarimShaikh123/lahore-weather
+- URL Shortener → https://url-shortener-gamma-one.vercel.app · KarimShaikh123/url-shortener (private repo — the card links it anyway, matching the Markdown Blog card)
 
 ## Commands
 
