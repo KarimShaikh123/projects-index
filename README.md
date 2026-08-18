@@ -9,6 +9,7 @@ A simple index of every project I have built. Plain HTML/CSS/JS, no framework, n
 - **QR Studio** — qr-generator-nine-rho.vercel.app
 - **Lahore Weather** — lahore-weather-one.vercel.app
 - **URL Shortener** — url-shortener-gamma-one.vercel.app
+- **Expense Splitter** — expense-splitter-gamma-coral.vercel.app
 
 ## Status
 
